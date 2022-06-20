@@ -2,3 +2,11 @@ body {
 	display: grid;
 	grid-template-columns: 2fr 8fr
 }
+
+#list :hover {
+	text-decoration: underline;
+}
+
+#show-panel {
+	text-align: center;
+}
